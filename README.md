@@ -1,4 +1,4 @@
-## Hi there 👋, I am John Mark Alvis a Web Developer
+## wassup bro
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alvisjohnmark&theme=dark)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=alvisjohnmark&color=green)
