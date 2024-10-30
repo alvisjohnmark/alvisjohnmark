@@ -1,7 +1,8 @@
 ## wassup bro
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvisjohnmark&theme=tokyonight&show_icons=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alvisjohnmark&theme=tokyonight)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvisjohnmark&exclude_repo=github-readme-stats,anuraghazra.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvisjohnmark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvisjohnmark&hide_progress=true)
 ![](https://komarev.com/ghpvc/?username=alvisjohnmark&color=green)
 
 
