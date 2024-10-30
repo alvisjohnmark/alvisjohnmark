@@ -8,5 +8,5 @@
 - 🌱 I’m currently learning firebase, vue and laravel.
 - 💬 Ask me about anything
 - 📫 How to reach me: alvisjm30@gmail.com
-- ⚡ Fun fact: i like icecreams
+- ⚡ Fun fact: i like cs
 
