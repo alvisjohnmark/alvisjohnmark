@@ -1,5 +1,6 @@
 ## Hi there 👋, I am John Mark Alvis a Web Developer
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alvisjohnmark&theme=dark)](https://git.io/streak-stats)
+
 ![](https://komarev.com/ghpvc/?username=alvisjohnmark&color=green)
 <!--
 **alvisjohnmark/alvisjohnmark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
