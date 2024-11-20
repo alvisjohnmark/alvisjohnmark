@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on multiple different projects.
-- 🌱 I’m currently learning firebase, vue and laravel.
+- 🌱 I’m currently learning Next.js, vue and laravel.
 - 💬 Ask me about anything
 - 📫 How to reach me: alvisjm30@gmail.com
 - ⚡ Fun fact: i like cs
