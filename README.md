@@ -5,8 +5,8 @@
 
 
 - 🔭 I’m currently working on multiple different projects.
-- 🌱 I’m currently learning Next.js, vue and laravel.
-- 💬 Ask me about anything
+- 🌱 I’m currently learning Nuxt.js and firebase.
+- 💬 Current stack: Nuxtjs, Vue, Laravel, Firebase and Tailwind.
 - 📫 How to reach me: alvisjm30@gmail.com
 - ⚡ Fun fact: i like cs
 
