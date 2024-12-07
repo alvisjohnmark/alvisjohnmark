@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on multiple different projects.
 - 🌱 I’m currently learning Nuxt.js, firebase, and supabase.
-- 💬 Current stack: Nuxtjs, Vue, Laravel, Firebase and Tailwind.
+- 💬 Current stack: Nuxtjs, Vue, Laravel, Supabase and Tailwind.
 - 📫 How to reach me: alvisjm30@gmail.com
 - ⚡ Fun fact: i like cs
 
