@@ -18,7 +18,3 @@
 - 🌱 I’m currently learning Firebase, Supabase, and AWS.
 - 💬 Current stack: Nuxt.js, Vue, React, Laravel, Express, Node, MongoDB, Supabase, and Tailwind.
 - 📫 How to reach me: alvisjm30@gmail.com
-
-## Fun Stuff
-- 😄 Pronouns: They/Them
-- ⚡ Fun fact: I love playing chess and hiking.
