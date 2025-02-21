@@ -8,5 +8,5 @@
 - 🌱 I’m currently learning firebase, supabase and AWS.
 - 💬 Current stack: Nuxtjs, Vue, React, Laravel, Express, Node, Mongodb Supabase and Tailwind.
 - 📫 How to reach me: alvisjm30@gmail.com
-- ⚡ Fun fact: i like cs
+
 
