@@ -1,7 +1,6 @@
 # Welcome to My GitHub Profile
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvisjohnmark&theme=tokyonight&show_icons=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alvisjohnmark&theme=tokyonight)](https://git.io/streak-stats)
 ![Profile Views](https://komarev.com/ghpvc/?username=alvisjohnmark&color=green)
 
 ## Top Languages
@@ -10,8 +9,8 @@
 ## GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=alvisjohnmark&theme=tokyonight)
 
-## GitHub Activity Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alvisjohnmark&theme=tokyonight)
+## Recent Contributions
+![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=alvisjohnmark&theme=tokyonight)
 
 ## About Me
 - 🔭 I’m currently working on multiple different projects.
